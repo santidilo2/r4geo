@@ -1,3 +1,9 @@
+---
+output:
+  pdf_document: default
+  word_document: default
+  html_document: default
+---
 # [Alembic](https://alembic.darn.es/)
 [![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
 
