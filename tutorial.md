@@ -1,5 +1,5 @@
 ---
-title: Pesquisar
+title: Tutoriais
 excerpt: "Buscar na página ou em postagens"
 ---
 
