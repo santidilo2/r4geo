@@ -1,7 +1,7 @@
 ---
 title: Geosaber
 feature_text: |
-  ## Geosaber
+  # Geosaber
   10 anos ministrando Cursos de SIG livres presenciais, on site e in company
 feature_image: "https://unsplash.it/1300/400?image=971"
 excerpt: "Iniciado em 2007, o portal [Geosaber](http://www.geosaber.com.br) foi criado com o intuito de ser referência em Sistemas de Informações Geográficas Livres e Abertas, em especial nas tecnologias suportadas pela [Fundação OSGeo](http://www.osgeo.org)"
@@ -12,8 +12,8 @@ Fomos os primeiros a ofertar Cursos de QGIS no Brasil, e somos os únicos a ofer
 {% include button.html text="Github" icon="github" link="https://github.com/geosaber" color="#0366d6" %} {% include button.html text="Geosaber" link="http://www.geosaber.com.br" %} {% include button.html text="Compartilhe" icon="facebook" link="https://www.facebook.com/Sidney.Geosaber" color="#1DA1F2" %} {% include button.html text="Shinyapps" link="https://geosaber.github.io/rscripts" color="#00FFFF" %}
 
 ___
+
 # R Scripts e Webapps
-> *Copyright 2018 [Geosaber](http://www.geosaber.com.br)*
 
 Para maiores informações, visite nosso site [Geosaber](http://www.geosaber.com.br) e conheça mais sobre o Desenvolvimento de ***_Shinyapps, [Rwebapps](https://www.opencpu.org/apps.html) e Rscripts {QGIS}_*** e também sobre ***Cursos de R e QGIS***.
 
@@ -43,7 +43,7 @@ Syntax highlighted code block
 Aplicações [Geosaber.Shinyapps.io](https://geostatistics.shinyapps.io/geoestistics_v2) para Geoestatistica e Analise de Dados Espaciais online.
 
 ---
-# Licença
+## Licença
 
 ***Copyright 2018 Geosaber***
 
