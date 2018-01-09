@@ -7,9 +7,9 @@ feature_image: "https://unsplash.it/1300/400?image=971"
 excerpt: "Iniciado em 2007, o portal [Geosaber](http://www.geosaber.com.br) foi criado com o intuito de ser um local de referência em Sistemas de Informações Geográficas Livres e Abertas, em especial nas tecnologias da [Fundação OSGeo](http://www.osgeo.org)"
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.
+Fomos os primeiros a ofertar Cursos de QGIS no Brasil, e somos os únicos a oferecer um **Curso de QGIS e R para Geoestatística** (com rotinas funcionais - _Rscripts_ - completas e interativas para _**Calculo e Modelagem de Variograma e Estimativas por Krigagem Ordinária e Universal**_.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#1DA1F2" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
+{% include button.html text="Fork it" icon="github" link="https://github.com/geosaber" color="#0366d6" %} {% include button.html text="Compartilhe" icon="facebook" link="https://www.facebook.com/Sidney.Geosaber" color="#1DA1F2" %} {% include button.html text="Geosaber" link="http://www.geosaber.com.br" %} {% include button.html text="Shinyapps" link="https://geosaber.github.io/rscripts" color="#333333" %}
 
 ## Features
 
