@@ -11,19 +11,40 @@ Fomos os primeiros a ofertar Cursos de QGIS no Brasil, e somos os únicos a ofer
 
 {% include button.html text="Github" icon="github" link="https://github.com/geosaber" color="#0366d6" %} {% include button.html text="Geosaber" link="http://www.geosaber.com.br" %} {% include button.html text="Compartilhe" icon="facebook" link="https://www.facebook.com/Sidney.Geosaber" color="#1DA1F2" %} {% include button.html text="Shinyapps" link="https://geosaber.github.io/rscripts" color="#00FFFF" %}
 
-## Features
+___
+# R Scripts e Webapps
+> *Copyright 2018 [Geosaber](http://www.geosaber.com.br)*
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Simple and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](http://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+Para maiores informações, visite nosso site [Geosaber](http://www.geosaber.com.br) e conheça mais sobre o Desenvolvimento de ***_Shinyapps, [Rwebapps](https://www.opencpu.org/apps.html) e Rscripts {QGIS}_*** e também sobre ***Cursos de R e QGIS***.
+
+## Rscripts (QGIS)
+
+Conjunto de rotinas do R para executar comandos dentro do QGIS de forma integrada.
+
+```markdown
+Syntax highlighted code block
+
+# Geoestatística
+## Variograma Experimental e Modelagem
+### Krigagem Ordinária e Universal (KO e KU)
+
+- Modelagem
+- Simulação
+
+1. Predição
+2. Probabilidade
+
+**R** e _QGIS_ e `Code` scripts
+
+[Shiny](url) e ![Geosaber](src)
+```
+
+## Plataforma Web de Aplicações do R
+Aplicações [Geosaber.Shinyapps.io](https://geostatistics.shinyapps.io/geoestistics_v2) para Geoestatistica e Analise de Dados Espaciais online.
+
+---
+# Licença
+
+***Copyright 2018 Geosaber***
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
