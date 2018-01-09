@@ -7,9 +7,9 @@ feature_image: "https://unsplash.it/1300/400?image=971"
 excerpt: "Iniciado em 2007, o portal [Geosaber](http://www.geosaber.com.br) foi criado com o intuito de ser referência em Sistemas de Informações Geográficas Livres e Abertas, em especial nas tecnologias suportadas pela [Fundação OSGeo](http://www.osgeo.org)"
 ---
 
-Fomos os primeiros a ofertar Cursos de QGIS no Brasil, e somos os únicos a oferecer um **Curso de QGIS e R para Geoestatística** (com rotinas funcionais - _Rscripts_ - completas e interativas para _**Calculo e Modelagem de Variograma e Estimativas por Krigagem Ordinária e Universal**_ desenvolvidas por Nós e que estão sendo utilizadas pelos alunos que passaram por nosso Curso.
+Fomos os primeiros a ofertar **Cursos de QGIS** no Brasil e somos os únicos a oferecer um **Curso de QGIS e R para Geoestatística** com rotinas funcionais - _Rscripts_ - completas e integradas para _**Calculo e Modelagem de Variograma e Estimativas por Krigagem Ordinária e Universal**_ desenvolvidas por Nós e que estão sendo utilizadas pelos alunos que passaram por nosso Curso.
 
-{% include button.html text="Github" icon="github" link="https://github.com/geosaber" color="#0366d6" %} {% include button.html text="Geosaber" link="http://www.geosaber.com.br" %} {% include button.html text="Compartilhe" icon="facebook" link="https://www.facebook.com/Sidney.Geosaber" color="#1DA1F2" %} {% include button.html text="Shinyapps" link="https://geosaber.github.io/rscripts" color="#00FFFF" %}
+{% include button.html text="Github" icon="github" link="https://github.com/geosaber" color="#0366d6" %} {% include button.html text="Geosaber" link="http://www.geosaber.com.br" color="#F4A460" %} {% include button.html text="Compartilhe" icon="facebook" link="https://www.facebook.com/Sidney.Geosaber" color="#1DA1F2" %} {% include button.html text="Shinyapps" link="https://geosaber.github.io/rscripts" color="#00FFFF" %}
 
 ___
 
