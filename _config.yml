@@ -73,12 +73,14 @@ navigation_header:
   Início: /
   Cursos: /elements/
   Blog: /blog/
+  Tutoriais: /tutorial/
   Serviços: /categories/
-  Busca: /search/
+  Sobre: /about/
   Contato: https://github.com/geosaber
+  Busca: /search/
 
 navigation_footer:
-  Desenvolvido por: "http://www.geosaber.com.br"
+  S.S.Goveia "http://www.geosaber.com.br"
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   #Twitter: https://twitter.com/DavidDarnes
