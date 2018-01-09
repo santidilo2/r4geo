@@ -80,7 +80,7 @@ navigation_header:
   Busca: /search/
 
 navigation_footer:
-  S.S.Goveia "http://www.geosaber.com.br"
+  Created by Geosaber: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   #Twitter: https://twitter.com/DavidDarnes
