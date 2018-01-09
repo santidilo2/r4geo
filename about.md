@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-tagline: A few more words about this theme
+title: Sobre
+tagline: Informações
 permalink: /about.html
 ---
 
