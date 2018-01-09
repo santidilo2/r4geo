@@ -1,7 +1,7 @@
 ---
 title: Geosaber
 feature_text: |
-  # Geosaber
+  # Cursos de QGIS
   10 anos ministrando Cursos de SIG livres presenciais, on site e in company
 feature_image: "https://unsplash.it/1300/400?image=971"
 excerpt: "Iniciado em 2007, o portal [Geosaber](http://www.geosaber.com.br) foi criado com o intuito de ser referência em Sistemas de Informações Geográficas Livres e Abertas, em especial nas tecnologias suportadas pela [Fundação OSGeo](http://www.osgeo.org)"
