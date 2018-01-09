@@ -10,9 +10,7 @@ excerpt: "Iniciado em 2007, o portal [Geosaber](http://www.geosaber.com.br) foi 
 Fomos os primeiros a ofertar **Cursos de QGIS** no Brasil e somos os únicos a oferecer um **Curso de QGIS e R para Geoestatística** com rotinas funcionais - _Rscripts_ - completas e integradas para _**Calculo e Modelagem de Variograma e Estimativas por Krigagem Ordinária e Universal**_ desenvolvidas por Nós e que estão sendo utilizadas pelos alunos que passaram por nosso Curso.
 
 {% include button.html text="Github" icon="github" link="https://github.com/geosaber" color="#0366d6" %} {% include button.html text="Geosaber" link="http://www.geosaber.com.br" color="#F4A460" %} {% include button.html text="Compartilhe" icon="facebook" link="https://www.facebook.com/Sidney.Geosaber" color="#1DA1F2" %} {% include button.html text="Shinyapps" link="https://geosaber.github.io/rscripts" color="#00FFFF" %}
-
 ___
-
 # R Scripts e Webapps
 
 Para maiores informações, visite nosso site [Geosaber](http://www.geosaber.com.br) e conheça mais sobre o Desenvolvimento de ***_Shinyapps, [Rwebapps](https://www.opencpu.org/apps.html) e Rscripts {QGIS}_*** e também sobre ***Cursos de R e QGIS***.
@@ -22,28 +20,26 @@ Para maiores informações, visite nosso site [Geosaber](http://www.geosaber.com
 Conjunto de rotinas do R para executar comandos dentro do QGIS de forma integrada.
 
 ```markdown
-Syntax highlighted code block
-
-# Geoestatística
-## Variograma Experimental e Modelagem
-### Krigagem Ordinária e Universal (KO e KU)
-
-- Modelagem
-- Simulação
-
-1. Predição
-2. Probabilidade
-
-**R** e _QGIS_ e `Code` scripts
-
-[Shiny](url) e ![Geosaber](src)
+##Basic statistics=group
+##Layer=vector
+##Field=Field Layer
+Summary_statistics<-data.frame(rbind(sum(Layer[[Field]]),
+length(Layer[[Field]]),
+length(unique(Layer[[Field]])),
+min(Layer[[Field]]),
+max(Layer[[Field]]),
+max(Layer[[Field]])-min(Layer[[Field]]),
+mean(Layer[[Field]]),
+median(Layer[[Field]]),
+sd(Layer[[Field]])),row.names=c("Sum:","Count:","Unique values:","Minimum value:","Maximum value:","Range:","Mean value:","Median value:","Standard deviation:"))
+colnames(Summary_statistics)<-c(Field)
+>Summary_statistics
 ```
 
 ## Plataforma Web de Aplicações do R
 Aplicações [Geosaber.Shinyapps.io](https://geostatistics.shinyapps.io/geoestistics_v2) para Geoestatistica e Analise de Dados Espaciais online.
-
 ---
-## Licença
+### Licença
 
 ***Copyright 2018 Geosaber***
 
