@@ -2,9 +2,9 @@
 title: Geosaber
 feature_text: |
   ## Geosaber
-  10 anos ministrando Cursos de SIG livres presenciais, onsite e in company
+  10 anos ministrando Cursos de SIG livres presenciais, on site e in company
 feature_image: "https://unsplash.it/1300/400?image=971"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Iniciado em 2007, o portal [Geosaber](http://www.geosaber.com.br) foi criado com o intuito de ser um local de referência em Sistemas de Informações Geográficas Livres e Abertas, em especial nas tecnologias da [Fundação OSGeo](http://www.osgeo.org)"
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.
