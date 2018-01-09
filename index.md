@@ -38,6 +38,7 @@ colnames(Summary_statistics)<-c(Field)
 
 ## Plataforma Web de Aplicações do R
 Aplicações [Geosaber.Shinyapps.io](https://geostatistics.shinyapps.io/geoestistics_v2) para Geoestatistica e Analise de Dados Espaciais online.
+
 ---
 ### Licença
 
