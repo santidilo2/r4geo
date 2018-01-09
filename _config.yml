@@ -76,11 +76,11 @@ navigation_header:
   Tutoriais: /tutorial/
   Serviços: /categories/
   Sobre: /about/
-  Contato: https://github.com/geosaber
+  Contato: /contact/
   Busca: /search/
 
 navigation_footer:
-  Created by Geosaber: https://darn.es
+  Created by Geosaber: http://www.geosaber.com.br
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   #Twitter: https://twitter.com/DavidDarnes
